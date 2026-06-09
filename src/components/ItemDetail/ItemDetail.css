@@ -1,0 +1,14 @@
+
+.item-detail__contador {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  margin-bottom: 8px;
+}
+
+.item-detail__contador span {
+  font-size: 18px;
+  font-weight: 600;
+  min-width: 24px;
+  text-align: center;
+}

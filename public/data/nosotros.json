@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "nombre": "Carlos Méndez",
+    "puesto": "Fundador",
+    "email": "carlos@cronos.com",
+    "foto": "https://i.ibb.co/wr60mygP/carlos.jpg"
+  },
+  {
+    "id": 2,
+    "nombre": "Laura Gómez",
+    "puesto": "Diseñadora",
+    "email": "laura@cronos.com",
+    "foto": "https://i.ibb.co/CszMFrLR/laura.jpg"
+  },
+  {
+    "id": 3,
+    "nombre": "Martín Ríos",
+    "puesto": "Técnico Relojero",
+    "email": "martin@cronos.com",
+    "foto": "https://i.ibb.co/Wp7bxq8H/martin.jpg"
+  },
+  {
+    "id": 4,
+    "nombre": "Sofía Torres",
+    "puesto": "Atención al cliente",
+    "email": "sofia@cronos.com",
+    "foto": "https://i.ibb.co/xK8MJHxj/sofia.jpg"
+  }
+]

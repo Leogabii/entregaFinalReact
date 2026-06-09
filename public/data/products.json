@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Cronos Classic",
+    "description": "Reloj de acero inoxidable con correa de cuero genuino. Movimiento automático suizo.",
+    "price": 85000,
+    "image": "https://i.ibb.co/gFm4yWk9/reloj-Pulsera.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Aqua Diver 200m",
+    "description": "Reloj sumergible hasta 200 metros. Ideal para buceo y deportes acuáticos.",
+    "price": 120000,
+    "image": "https://i.ibb.co/C33NxhLk/reloj-Oro.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Heritage Gold",
+    "description": "Reloj de oro 18k con esfera de nácar. Edición limitada de colección.",
+    "price": 310000,
+    "image": "https://i.ibb.co/4Z4pBQS7/reloj-Plata.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Sport Chrono",
+    "description": "Cronógrafo deportivo con funciones de cuenta regresiva y alarma.",
+    "price": 65000,
+    "image": "https://i.ibb.co/zH6jzmSv/cronometro.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Slim Elegance",
+    "description": "Diseño ultra delgado con malla milanesa. Perfecto para ocasiones formales.",
+    "price": 95000,
+    "image": "https://i.ibb.co/gFm4yWk9/reloj-Pulsera.jpg"
+  },
+  {
+    "id": 6,
+    "name": "SmartTime Pro",
+    "description": "Reloj inteligente con monitor cardíaco, incluye GPS y duración de 7 días de batería.",
+    "price": 75000,
+    "image": "https://i.ibb.co/4ZyM2gPF/reloj-Inteligente.jpg"
+  }
+]

@@ -1,0 +1,32 @@
+.nav-list {
+  display: flex;
+  gap: 24px;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.nav-list a {
+  color: var(--text-h);
+  text-decoration: none;
+  font-size: 16px;
+  transition: color 0.2s;
+}
+
+.nav-list a:hover {
+  color: var(--accent);
+}
+
+.incart {
+  background: var(--accent);
+  color: #fff;
+  border-radius: 50%;
+  width: 20px;
+  height: 20px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 12px;
+  font-weight: 600;
+  margin-left: 6px;
+}
